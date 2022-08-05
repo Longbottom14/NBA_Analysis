@@ -1,0 +1,83 @@
+,G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Starting Lineup
+0,1,2021-10-20,,,Box Score,,Orlando Magic,W,,123,97,1,0,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. White
+1,2,2021-10-22,,,Box Score,@,Denver Nuggets,L,,96,102,1,1,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. White
+2,3,2021-10-23,,,Box Score,,Milwaukee Bucks,L,,111,121,1,2,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. White
+3,4,2021-10-26,,,Box Score,,Los Angeles Lakers,L,OT,121,125,1,3,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. White
+4,5,2021-10-28,,,Box Score,@,Dallas Mavericks,L,,99,104,1,4,K. Johnson · D. Murray · J. Poeltl · L. Walker · D. White
+5,6,2021-10-30,,,Box Score,@,Milwaukee Bucks,W,,102,93,2,4,K. Johnson · D. Murray · J. Poeltl · L. Walker · D. White
+6,7,2021-11-01,,,Box Score,@,Indiana Pacers,L,,118,131,2,5,K. Johnson · D. Murray · J. Poeltl · L. Walker · D. White
+7,8,2021-11-03,,,Box Score,,Dallas Mavericks,L,,108,109,2,6,D. Eubanks · K. Johnson · D. McDermott · D. Murray · D. White
+8,9,2021-11-05,,,Box Score,@,Orlando Magic,W,,102,89,3,6,D. Eubanks · K. Johnson · D. McDermott · D. Murray · D. White
+9,10,2021-11-07,,,Box Score,@,Oklahoma City Thunder,L,,94,99,3,7,D. Eubanks · K. Johnson · D. McDermott · D. Murray · D. White
+10,11,2021-11-10,,,Box Score,,Sacramento Kings,W,,136,117,4,7,D. Eubanks · K. Johnson · D. McDermott · D. Murray · D. White
+11,12,2021-11-12,,,Box Score,,Dallas Mavericks,L,,109,123,4,8,D. Eubanks · K. Johnson · D. McDermott · D. Murray · D. White
+12,13,2021-11-14,,,Box Score,@,Los Angeles Lakers,L,,106,114,4,9,D. Eubanks · K. Johnson · D. McDermott · D. Murray · D. White
+13,14,2021-11-16,,,Box Score,@,Los Angeles Clippers,L,,92,106,4,10,D. Eubanks · K. Johnson · D. McDermott · D. Murray · D. White
+14,15,2021-11-18,,,Box Score,@,Minnesota Timberwolves,L,,90,115,4,11,D. Eubanks · K. Johnson · D. McDermott · D. Murray · D. White
+15,16,2021-11-22,,,Box Score,,Phoenix Suns,L,,111,115,4,12,K. Bates-Diop · K. Johnson · D. Murray · J. Poeltl · D. White
+16,17,2021-11-24,,,Box Score,,Atlanta Hawks,L,,106,124,4,13,K. Bates-Diop · K. Johnson · D. Murray · J. Poeltl · D. White
+17,18,2021-11-26,,,Box Score,,Boston Celtics,W,,96,88,5,13,K. Bates-Diop · K. Johnson · D. Murray · J. Poeltl · D. White
+18,19,2021-11-29,,,Box Score,,Washington Wizards,W,,116,99,6,13,K. Bates-Diop · K. Johnson · D. Murray · J. Poeltl · D. White
+19,20,2021-12-02,,,Box Score,@,Portland Trail Blazers,W,,114,83,7,13,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. White
+20,21,2021-12-04,,,Box Score,@,Golden State Warriors,W,,112,107,8,13,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. White
+21,22,2021-12-06,,,Box Score,@,Phoenix Suns,L,,104,108,8,14,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. White
+22,23,2021-12-07,,,Box Score,,New York Knicks,L,,109,121,8,15,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. White
+23,24,2021-12-09,,,Box Score,,Denver Nuggets,W,,123,111,9,15,K. Bates-Diop · D. McDermott · D. Murray · J. Poeltl · D. White
+24,25,2021-12-11,,,Box Score,,Denver Nuggets,L,,112,127,9,16,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. White
+25,26,2021-12-12,,,Box Score,,New Orleans Pelicans,W,,112,97,10,16,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. White
+26,27,2021-12-15,,,Box Score,,Charlotte Hornets,L,,115,131,10,17,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. White
+27,28,2021-12-17,,,Box Score,@,Utah Jazz,W,,128,126,11,17,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. White
+28,29,2021-12-19,,,Box Score,@,Sacramento Kings,L,,114,121,11,18,K. Johnson · D. Murray · J. Poeltl · D. Vassell · D. White
+29,30,2021-12-20,,,Box Score,@,Los Angeles Clippers,W,,116,92,12,18,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. White
+30,31,2021-12-23,,,Box Score,@,Los Angeles Lakers,W,,138,110,13,18,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. White
+31,32,2021-12-26,,,Box Score,,Detroit Pistons,W,,144,109,14,18,K. Bates-Diop · K. Johnson · D. McDermott · J. Poeltl · D. White
+32,33,2021-12-27,,,Box Score,,Utah Jazz,L,,104,110,14,19,K. Bates-Diop · K. Johnson · D. McDermott · J. Poeltl · D. White
+33,34,2021-12-31,,,Box Score,@,Memphis Grizzlies,L,,105,118,14,20,K. Bates-Diop · K. Johnson · D. McDermott · J. Poeltl · D. White
+34,35,2022-01-01,,,Box Score,@,Detroit Pistons,L,OT,116,117,14,21,K. Johnson · T. Jones · J. Poeltl · D. Vassell · D. White
+35,36,2022-01-04,,,Box Score,@,Toronto Raptors,L,,104,129,14,22,K. Johnson · T. Jones · J. Poeltl · D. Vassell · D. White
+36,37,2022-01-05,,,Box Score,@,Boston Celtics,W,,99,97,15,22,K. Johnson · D. Murray · J. Poeltl · D. Vassell · D. White
+37,38,2022-01-07,,,Box Score,@,Philadelphia 76ers,L,,100,119,15,23,K. Bates-Diop · B. Forbes · D. Murray · J. Poeltl · J. Primo
+38,39,2022-01-09,,,Box Score,@,Brooklyn Nets,L,OT,119,121,15,24,K. Bates-Diop · D. Murray · J. Poeltl · J. Primo · L. Walker
+39,40,2022-01-10,,,Box Score,@,New York Knicks,L,,96,111,15,25,K. Bates-Diop · D. Murray · J. Poeltl · J. Primo · L. Walker
+40,41,2022-01-12,,,Box Score,,Houston Rockets,L,,124,128,15,26,K. Bates-Diop · D. Murray · J. Poeltl · J. Primo · L. Walker
+41,42,2022-01-14,,,Box Score,,Cleveland Cavaliers,L,,109,114,15,27,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. Vassell
+42,43,2022-01-15,,,Box Score,,Los Angeles Clippers,W,,101,94,16,27,K. Johnson · J. Landale · D. McDermott · D. Murray · D. Vassell
+43,44,2022-01-17,,,Box Score,,Phoenix Suns,L,,107,121,16,28,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. White
+44,45,2022-01-19,,,Box Score,,Oklahoma City Thunder,W,,118,96,17,28,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. White
+45,46,2022-01-21,,,Box Score,,Brooklyn Nets,L,,102,117,17,29,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. White
+46,47,2022-01-23,,,Box Score,,Philadelphia 76ers,L,,109,115,17,30,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. White
+47,48,2022-01-25,,,Box Score,@,Houston Rockets,W,,134,104,18,30,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. White
+48,49,2022-01-26,,,Box Score,,Memphis Grizzlies,L,,110,118,18,31,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. White
+49,50,2022-01-28,,,Box Score,,Chicago Bulls,W,,131,122,19,31,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. White
+50,51,2022-01-30,,,Box Score,@,Phoenix Suns,L,,110,115,19,32,D. Eubanks · K. Johnson · T. Jones · D. McDermott · D. Vassell
+51,52,2022-02-01,,,Box Score,,Golden State Warriors,L,,120,124,19,33,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. White
+52,53,2022-02-03,,,Box Score,,Miami Heat,L,,95,112,19,34,K. Johnson · T. Jones · D. Vassell · D. White · T. Young
+53,54,2022-02-04,,,Box Score,,Houston Rockets,W,,131,106,20,34,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. White
+54,55,2022-02-09,,,Box Score,@,Cleveland Cavaliers,L,,92,105,20,35,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. White
+55,56,2022-02-11,,,Box Score,@,Atlanta Hawks,W,,136,121,21,35,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. Vassell
+56,57,2022-02-12,,,Box Score,@,New Orleans Pelicans,W,,124,114,22,35,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. Vassell
+57,58,2022-02-14,,,Box Score,@,Chicago Bulls,L,,109,120,22,36,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. Vassell
+58,59,2022-02-16,,,Box Score,@,Oklahoma City Thunder,W,,114,106,23,36,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. Vassell
+59,60,2022-02-25,,,Box Score,@,Washington Wizards,W,2OT,157,153,24,36,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. Vassell
+60,61,2022-02-26,,,Box Score,@,Miami Heat,L,,129,133,24,37,K. Bates-Diop · Z. Collins · T. Jones · D. McDermott · D. Vassell
+61,62,2022-02-28,,,Box Score,@,Memphis Grizzlies,L,,105,118,24,38,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. Vassell
+62,63,2022-03-03,,,Box Score,,Sacramento Kings,L,,112,115,24,39,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. Vassell
+63,64,2022-03-05,,,Box Score,@,Charlotte Hornets,L,,117,123,24,40,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. Vassell
+64,65,2022-03-07,,,Box Score,,Los Angeles Lakers,W,,117,110,25,40,K. Johnson · D. McDermott · D. Murray · J. Poeltl · J. Richardson
+65,66,2022-03-09,,,Box Score,,Toronto Raptors,L,,104,119,25,41,K. Johnson · D. McDermott · D. Murray · J. Poeltl · D. Vassell
+66,67,2022-03-11,,,Box Score,,Utah Jazz,W,,104,102,26,41,K. Johnson · D. Murray · J. Poeltl · J. Richardson · D. Vassell
+67,68,2022-03-12,,,Box Score,,Indiana Pacers,L,,108,119,26,42,Z. Collins · T. Jones · D. McDermott · J. Richardson · D. Vassell
+68,69,2022-03-14,,,Box Score,,Minnesota Timberwolves,L,,139,149,26,43,K. Johnson · D. Murray · J. Poeltl · J. Richardson · D. Vassell
+69,70,2022-03-16,,,Box Score,,Oklahoma City Thunder,W,,122,120,27,43,K. Johnson · D. Murray · J. Poeltl · J. Richardson · D. Vassell
+70,71,2022-03-18,,,Box Score,,New Orleans Pelicans,L,,91,124,27,44,K. Johnson · D. Murray · J. Poeltl · J. Primo · D. Vassell
+71,72,2022-03-20,,,Box Score,@,Golden State Warriors,W,,110,108,28,44,K. Johnson · D. Murray · J. Poeltl · J. Primo · D. Vassell
+72,73,2022-03-23,,,Box Score,@,Portland Trail Blazers,W,,133,96,29,44,K. Johnson · D. Murray · J. Poeltl · J. Primo · D. Vassell
+73,74,2022-03-26,,,Box Score,@,New Orleans Pelicans,W,,107,103,30,44,K. Johnson · D. Murray · J. Poeltl · J. Primo · J. Richardson
+74,75,2022-03-28,,,Box Score,@,Houston Rockets,W,,123,120,31,44,K. Johnson · D. Murray · J. Poeltl · J. Primo · D. Vassell
+75,76,2022-03-30,,,Box Score,,Memphis Grizzlies,L,,111,112,31,45,K. Johnson · D. Murray · J. Poeltl · J. Primo · D. Vassell
+76,77,2022-04-01,,,Box Score,,Portland Trail Blazers,W,,130,111,32,45,K. Johnson · T. Jones · J. Poeltl · J. Primo · D. Vassell
+77,78,2022-04-03,,,Box Score,,Portland Trail Blazers,W,,113,92,33,45,Z. Collins · K. Johnson · T. Jones · J. Primo · D. Vassell
+78,79,2022-04-05,,,Box Score,@,Denver Nuggets,W,,116,97,34,45,K. Johnson · T. Jones · J. Poeltl · J. Primo · D. Vassell
+79,80,2022-04-07,,,Box Score,@,Minnesota Timberwolves,L,,121,127,34,46,K. Johnson · T. Jones · J. Poeltl · J. Primo · D. Vassell
+80,81,2022-04-09,,,Box Score,,Golden State Warriors,L,,94,100,34,47,K. Bates-Diop · Z. Collins · T. Jones · J. Primo · J. Richardson
+81,82,2022-04-10,,,Box Score,@,Dallas Mavericks,L,,120,130,34,48,K. Johnson · D. Murray · J. Poeltl · J. Primo · D. Vassell

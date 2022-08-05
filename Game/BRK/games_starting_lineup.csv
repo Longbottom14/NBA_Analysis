@@ -1,0 +1,83 @@
+,G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Opponent,Unnamed: 7,Unnamed: 8,Tm,Opp,W,L,Starting Lineup
+0,1,2021-10-19,,,Box Score,@,Milwaukee Bucks,L,,104,127,0,1,N. Claxton · K. Durant · B. Griffin · J. Harden · J. Harris
+1,2,2021-10-22,,,Box Score,@,Philadelphia 76ers,W,,114,109,1,1,N. Claxton · K. Durant · B. Griffin · J. Harden · J. Harris
+2,3,2021-10-24,,,Box Score,,Charlotte Hornets,L,,95,111,1,2,J. Carter · N. Claxton · K. Durant · J. Harden · J. Harris
+3,4,2021-10-25,,,Box Score,,Washington Wizards,W,,104,90,2,2,B. Brown · K. Durant · B. Griffin · J. Harden · J. Harris
+4,5,2021-10-27,,,Box Score,,Miami Heat,L,,93,106,2,3,B. Brown · K. Durant · B. Griffin · J. Harden · J. Harris
+5,6,2021-10-29,,,Box Score,,Indiana Pacers,W,,105,98,3,3,B. Brown · K. Durant · B. Griffin · J. Harden · J. Harris
+6,7,2021-10-31,,,Box Score,,Detroit Pistons,W,,117,91,4,3,B. Brown · K. Durant · B. Griffin · J. Harden · J. Harris
+7,8,2021-11-03,,,Box Score,,Atlanta Hawks,W,,117,108,5,3,B. Brown · K. Durant · B. Griffin · J. Harden · J. Harris
+8,9,2021-11-05,,,Box Score,@,Detroit Pistons,W,,96,90,6,3,B. Brown · K. Durant · B. Griffin · J. Harden · J. Harris
+9,10,2021-11-07,,,Box Score,@,Toronto Raptors,W,,116,103,7,3,B. Brown · K. Durant · B. Griffin · J. Harden · J. Harris
+10,11,2021-11-08,,,Box Score,@,Chicago Bulls,L,,95,118,7,4,B. Brown · K. Durant · B. Griffin · J. Harden · J. Harris
+11,12,2021-11-10,,,Box Score,@,Orlando Magic,W,,123,90,8,4,B. Brown · K. Durant · B. Griffin · J. Harden · J. Harris
+12,13,2021-11-12,,,Box Score,@,New Orleans Pelicans,W,,120,112,9,4,B. Brown · K. Durant · B. Griffin · J. Harden · J. Harris
+13,14,2021-11-14,,,Box Score,@,Oklahoma City Thunder,W,,120,96,10,4,B. Brown · K. Durant · B. Griffin · J. Harden · J. Harris
+14,15,2021-11-16,,,Box Score,,Golden State Warriors,L,,99,117,10,5,B. Brown · K. Durant · B. Griffin · J. Harden · P. Mills
+15,16,2021-11-17,,,Box Score,,Cleveland Cavaliers,W,,109,99,11,5,B. Brown · K. Durant · B. Griffin · J. Harden · P. Mills
+16,17,2021-11-19,,,Box Score,,Orlando Magic,W,,115,113,12,5,D. Bembry · B. Brown · B. Griffin · J. Harden · P. Mills
+17,18,2021-11-22,,,Box Score,@,Cleveland Cavaliers,W,,117,112,13,5,D. Bembry · K. Durant · B. Griffin · J. Harden · P. Mills
+18,19,2021-11-24,,,Box Score,@,Boston Celtics,W,,123,104,14,5,L. Aldridge · D. Bembry · K. Durant · J. Harden · P. Mills
+19,20,2021-11-27,,,Box Score,,Phoenix Suns,L,,107,113,14,6,L. Aldridge · D. Bembry · K. Durant · J. Harden · P. Mills
+20,21,2021-11-30,,,Box Score,,New York Knicks,W,,112,110,15,6,L. Aldridge · D. Bembry · K. Durant · J. Harden · P. Mills
+21,22,2021-12-03,,,Box Score,,Minnesota Timberwolves,W,,110,105,16,6,L. Aldridge · D. Bembry · K. Durant · J. Harden · P. Mills
+22,23,2021-12-04,,,Box Score,,Chicago Bulls,L,,107,111,16,7,L. Aldridge · D. Bembry · K. Durant · J. Harden · P. Mills
+23,24,2021-12-07,,,Box Score,@,Dallas Mavericks,W,,102,99,17,7,L. Aldridge · D. Bembry · K. Durant · J. Harden · P. Mills
+24,25,2021-12-08,,,Box Score,@,Houston Rockets,L,,104,114,17,8,D. Bembry · N. Claxton · J. Harden · J. Johnson · P. Mills
+25,26,2021-12-10,,,Box Score,@,Atlanta Hawks,W,,113,105,18,8,L. Aldridge · D. Bembry · K. Durant · J. Harden · P. Mills
+26,27,2021-12-12,,,Box Score,@,Detroit Pistons,W,,116,104,19,8,L. Aldridge · D. Bembry · K. Durant · J. Johnson · P. Mills
+27,28,2021-12-14,,,Box Score,,Toronto Raptors,W,OT,131,129,20,8,N. Claxton · D. Duke · K. Durant · B. Griffin · P. Mills
+28,29,2021-12-16,,,Box Score,,Philadelphia 76ers,W,,114,105,21,8,N. Claxton · D. Duke · K. Durant · B. Griffin · P. Mills
+29,30,2021-12-18,,,Box Score,,Orlando Magic,L,,93,100,21,9,D. Duke · K. Edwards · B. Griffin · P. Mills · C. Thomas
+30,31,2021-12-25,,,Box Score,@,Los Angeles Lakers,W,,122,115,22,9,D. Bembry · B. Brown · N. Claxton · J. Harden · P. Mills
+31,32,2021-12-27,,,Box Score,@,Los Angeles Clippers,W,,124,108,23,9,D. Bembry · B. Brown · N. Claxton · J. Harden · P. Mills
+32,33,2021-12-30,,,Box Score,,Philadelphia 76ers,L,,102,110,23,10,L. Aldridge · N. Claxton · K. Durant · J. Harden · P. Mills
+33,34,2022-01-01,,,Box Score,,Los Angeles Clippers,L,,116,120,23,11,L. Aldridge · B. Brown · K. Durant · J. Harden · P. Mills
+34,35,2022-01-03,,,Box Score,,Memphis Grizzlies,L,,104,118,23,12,D. Bembry · N. Claxton · K. Durant · J. Harden · P. Mills
+35,36,2022-01-05,,,Box Score,@,Indiana Pacers,W,,129,121,24,12,N. Claxton · D. Duke · K. Durant · J. Harden · K. Irving
+36,37,2022-01-07,,,Box Score,,Milwaukee Bucks,L,,109,121,24,13,N. Claxton · D. Duke · K. Durant · J. Harden · P. Mills
+37,38,2022-01-09,,,Box Score,,San Antonio Spurs,W,OT,121,119,25,13,N. Claxton · D. Duke · K. Durant · J. Harden · P. Mills
+38,39,2022-01-10,,,Box Score,@,Portland Trail Blazers,L,,108,114,25,14,D. Bembry · N. Claxton · D. Duke · K. Durant · K. Irving
+39,40,2022-01-12,,,Box Score,@,Chicago Bulls,W,,138,112,26,14,K. Durant · K. Edwards · J. Harden · K. Irving · D. Sharpe
+40,41,2022-01-13,,,Box Score,,Oklahoma City Thunder,L,,109,130,26,15,D. Bembry · B. Brown · K. Edwards · J. Harden · D. Sharpe
+41,42,2022-01-15,,,Box Score,,New Orleans Pelicans,W,,120,105,27,15,K. Durant · K. Edwards · J. Harden · P. Mills · D. Sharpe
+42,43,2022-01-17,,,Box Score,@,Cleveland Cavaliers,L,,107,114,27,16,K. Edwards · J. Harden · K. Irving · P. Mills · D. Sharpe
+43,44,2022-01-19,,,Box Score,@,Washington Wizards,W,,119,118,28,16,K. Edwards · J. Harden · K. Irving · P. Mills · D. Sharpe
+44,45,2022-01-21,,,Box Score,@,San Antonio Spurs,W,,117,102,29,16,K. Edwards · J. Harden · K. Irving · P. Mills · D. Sharpe
+45,46,2022-01-23,,,Box Score,@,Minnesota Timberwolves,L,,125,136,29,17,K. Edwards · J. Harden · K. Irving · P. Mills · D. Sharpe
+46,47,2022-01-25,,,Box Score,,Los Angeles Lakers,L,,96,106,29,18,D. Bembry · K. Edwards · J. Harden · P. Mills · D. Sharpe
+47,48,2022-01-26,,,Box Score,,Denver Nuggets,L,,118,124,29,19,L. Aldridge · D. Bembry · K. Edwards · J. Johnson · P. Mills
+48,49,2022-01-29,,,Box Score,@,Golden State Warriors,L,,106,110,29,20,D. Bembry · N. Claxton · K. Edwards · K. Irving · P. Mills
+49,50,2022-02-01,,,Box Score,@,Phoenix Suns,L,,111,121,29,21,N. Claxton · K. Edwards · J. Harden · K. Irving · P. Mills
+50,51,2022-02-02,,,Box Score,@,Sacramento Kings,L,,101,112,29,22,N. Claxton · K. Edwards · J. Harden · K. Irving · P. Mills
+51,52,2022-02-04,,,Box Score,@,Utah Jazz,L,,102,125,29,23,N. Claxton · K. Edwards · K. Irving · J. Johnson · P. Mills
+52,53,2022-02-06,,,Box Score,@,Denver Nuggets,L,,104,124,29,24,K. Edwards · B. Griffin · K. Irving · J. Johnson · P. Mills
+53,54,2022-02-08,,,Box Score,,Boston Celtics,L,,91,126,29,25,D. Bembry · B. Brown · K. Edwards · B. Griffin · P. Mills
+54,55,2022-02-10,,,Box Score,@,Washington Wizards,L,,112,113,29,26,K. Edwards · B. Griffin · K. Irving · P. Mills · C. Thomas
+55,56,2022-02-12,,,Box Score,@,Miami Heat,L,,111,115,29,27,B. Brown · K. Edwards · B. Griffin · K. Irving · P. Mills
+56,57,2022-02-14,,,Box Score,,Sacramento Kings,W,,109,85,30,27,B. Brown · S. Curry · A. Drummond · K. Edwards · P. Mills
+57,58,2022-02-16,,,Box Score,@,New York Knicks,W,,111,106,31,27,B. Brown · S. Curry · A. Drummond · J. Johnson · P. Mills
+58,59,2022-02-17,,,Box Score,,Washington Wizards,L,,103,117,31,28,B. Brown · S. Curry · A. Drummond · K. Edwards · P. Mills
+59,60,2022-02-24,,,Box Score,,Boston Celtics,L,,106,129,31,29,B. Brown · S. Curry · A. Drummond · J. Johnson · P. Mills
+60,61,2022-02-26,,,Box Score,@,Milwaukee Bucks,W,,126,123,32,29,B. Brown · S. Curry · A. Drummond · K. Irving · J. Johnson
+61,62,2022-02-28,,,Box Score,,Toronto Raptors,L,,97,133,32,30,B. Brown · S. Curry · A. Drummond · J. Johnson · P. Mills
+62,63,2022-03-01,,,Box Score,@,Toronto Raptors,L,,108,109,32,31,L. Aldridge · B. Brown · S. Curry · J. Johnson · P. Mills
+63,64,2022-03-03,,,Box Score,,Miami Heat,L,,107,113,32,32,B. Brown · S. Curry · G. Dragić · A. Drummond · K. Durant
+64,65,2022-03-06,,,Box Score,@,Boston Celtics,L,,120,126,32,33,B. Brown · S. Curry · A. Drummond · K. Durant · K. Irving
+65,66,2022-03-08,,,Box Score,@,Charlotte Hornets,W,,132,121,33,33,B. Brown · S. Curry · A. Drummond · K. Durant · K. Irving
+66,67,2022-03-10,,,Box Score,@,Philadelphia 76ers,W,,129,100,34,33,B. Brown · S. Curry · A. Drummond · K. Durant · K. Irving
+67,68,2022-03-13,,,Box Score,,New York Knicks,W,,110,107,35,33,B. Brown · G. Dragić · A. Drummond · K. Durant · P. Mills
+68,69,2022-03-15,,,Box Score,@,Orlando Magic,W,,150,108,36,33,B. Brown · G. Dragić · A. Drummond · K. Durant · K. Irving
+69,70,2022-03-16,,,Box Score,,Dallas Mavericks,L,,111,113,36,34,B. Brown · G. Dragić · A. Drummond · K. Durant · P. Mills
+70,71,2022-03-18,,,Box Score,,Portland Trail Blazers,W,,128,123,37,34,B. Brown · S. Curry · G. Dragić · A. Drummond · K. Durant
+71,72,2022-03-21,,,Box Score,,Utah Jazz,W,,114,106,38,34,B. Brown · N. Claxton · S. Curry · G. Dragić · K. Durant
+72,73,2022-03-23,,,Box Score,@,Memphis Grizzlies,L,,120,132,38,35,B. Brown · A. Drummond · K. Durant · K. Edwards · K. Irving
+73,74,2022-03-26,,,Box Score,@,Miami Heat,W,,110,95,39,35,B. Brown · S. Curry · A. Drummond · K. Durant · K. Irving
+74,75,2022-03-27,,,Box Score,,Charlotte Hornets,L,,110,119,39,36,B. Brown · S. Curry · A. Drummond · K. Durant · K. Irving
+75,76,2022-03-29,,,Box Score,,Detroit Pistons,W,,130,123,40,36,B. Brown · S. Curry · A. Drummond · K. Durant · K. Irving
+76,77,2022-03-31,,,Box Score,,Milwaukee Bucks,L,OT,119,120,40,37,B. Brown · S. Curry · A. Drummond · K. Durant · K. Irving
+77,78,2022-04-02,,,Box Score,@,Atlanta Hawks,L,,115,122,40,38,A. Drummond · K. Durant · K. Edwards · K. Irving · P. Mills
+78,79,2022-04-05,,,Box Score,,Houston Rockets,W,,118,105,41,38,B. Brown · A. Drummond · K. Durant · K. Irving · P. Mills
+79,80,2022-04-06,,,Box Score,@,New York Knicks,W,,110,98,42,38,B. Brown · S. Curry · A. Drummond · K. Durant · K. Irving
+80,81,2022-04-08,,,Box Score,,Cleveland Cavaliers,W,,118,107,43,38,B. Brown · S. Curry · A. Drummond · K. Durant · K. Irving
+81,82,2022-04-10,,,Box Score,,Indiana Pacers,W,,134,126,44,38,B. Brown · A. Drummond · K. Durant · K. Edwards · K. Irving
